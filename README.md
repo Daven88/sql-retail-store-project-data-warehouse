@@ -5,3 +5,5 @@ Independent data warehouse project applying industry-standard ETL workflows and 
 Data Architecture
 ---
 The data architecture for this project follows Medalion Architecture **Bronze**, **Silver**, and **Gold** layers:
+---
+![Data Model](docs/Data_architecture.drawio.png)
